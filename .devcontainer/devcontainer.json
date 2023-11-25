@@ -1,0 +1,11 @@
+{
+    // Name this configuration
+    "name": "testcodespace",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot"
+            ]
+        }
+    }
+}
